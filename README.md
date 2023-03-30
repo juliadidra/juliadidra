@@ -7,9 +7,9 @@
 
 - 🔭 Atualmente estou trabalhando em um projeto de desenvolvimento front-end de uma página web
 - 🌱 Atualmente estou aprendendo Java 
-- 📫 Como entrar em contato conigo: juliadidra22@gmail.com
+- 📫 Entre em contato conigo: juliadidra22@gmail.com
 - 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: Amante de filmes e música
+- ⚡ Curiosidade: Amante de filmes e música <3
 
 <!--![Snake animation](https://github.com/juliadidra/juliadidra/blob/output/github-contribution-grid-snake.svg)-->
 
