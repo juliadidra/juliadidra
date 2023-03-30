@@ -11,7 +11,7 @@
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: Amante de filmes e música
 
-![Snake animation](https://github.com/juliadidra/juliadidra/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/juliadidra/juliadidra/blob/output/github-contribution-grid-snake.svg)-->
 
 
 ## Estou aprendendo
