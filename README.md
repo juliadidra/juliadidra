@@ -7,7 +7,6 @@
 
 - 🔭 Atualmente estou trabalhando em um projeto de desenvolvimento front-end de uma página web
 - 🌱 Atualmente estou aprendendo Java 
-- 📫 Entre em contato conigo: juliadidra22@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: Amante de filmes e música <3
 
