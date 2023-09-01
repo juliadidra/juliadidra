@@ -4,6 +4,7 @@
 <!--
 **juliadidra/juliadidra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<h2>  Systems Analysis and Development student at IFPE</h2>
 
 - 🔭 Atualmente estou trabalhando em projetos de desenvolvimento web, IOT e visão computacional 
 - 🌱 Atualmente estou aprendendo OpenCV, C++, HTML/CSS 
