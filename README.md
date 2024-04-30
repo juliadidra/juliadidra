@@ -8,7 +8,7 @@
 
 - 🔭 Atualmente estou trabalhando em projetos de desenvolvimento web, IOT e visão computacional 
 - 🌱 Atualmente estou aprendendo .NET, OpenCV, C#, javascript 
-- ⚡ Curiosidade: Amante de filmes e música <3
+<!-- - ⚡ Curiosidade: Amante de filmes e música <3 -->
 
 
 ## Contatos:
