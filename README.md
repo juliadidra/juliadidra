@@ -7,7 +7,7 @@
   Pesquisadora e Estudante de Análise e desenvolvimento de sistemas, IFPE
 
 - 🔭 Atualmente estou trabalhando em projetos de desenvolvimento web, IOT e visão computacional 
-- 🌱 Atualmente estou aprendendo .NET, OpenCV, C#, javascript 
+- 🌱 Atualmente estou aprendendo .NET, OpenCV, javascript 
 <!-- - ⚡ Curiosidade: Amante de filmes e música <3 -->
 
 
