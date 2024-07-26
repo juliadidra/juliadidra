@@ -4,10 +4,10 @@
 <!--
 **juliadidra/juliadidra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-  Pesquisadora e Estudante de Análise e desenvolvimento de sistemas, IFPE
+  
 
 - 🔭 Atualmente estou trabalhando em projetos de desenvolvimento web, IOT e visão computacional 
-- 🌱 Atualmente estou aprendendo .NET, OpenCV, javascript 
+- 🌱 Atualmente estou aprendendo .NET, GenAI 
 <!-- - ⚡ Curiosidade: Amante de filmes e música <3 -->
 
 
