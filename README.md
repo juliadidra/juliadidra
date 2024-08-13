@@ -6,8 +6,8 @@
 -->
   
 
-- 🔭 Atualmente estou trabalhando em projetos de desenvolvimento web, IOT e visão computacional 
-- 🌱 Atualmente estou aprendendo .NET, GenAI 
+- 🔭 Atualmente estou trabalhando em projetos de IA generativa  
+- 🌱 Atualmente estou aprendendo .NET, Java 
 <!-- - ⚡ Curiosidade: Amante de filmes e música <3 -->
 
 
