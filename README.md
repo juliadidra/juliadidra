@@ -7,8 +7,8 @@
   
 
 - 🔭 Atualmente estou trabalhando em projetos de IA generativa  
-- 🌱 Atualmente estou aprendendo .NET, Java 
-<!-- - ⚡ Curiosidade: Amante de filmes e música <3 -->
+- 🌱 Atualmente estou aprendendo langchain
+
 
 
 
