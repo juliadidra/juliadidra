@@ -7,7 +7,7 @@
   
 
 - 🔭 Atualmente estou trabalhando em projetos de IA generativa  
-- 🌱 Atualmente estou aprendendo langchain
+- 🌱 Atualmente estou aprendendo langchain e .NET
 
 
 
